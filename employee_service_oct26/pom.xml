@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>employee-service</groupId>
-	<artifactId>employee_service_oct25</artifactId>
+	<artifactId>employee_service_oct26</artifactId>
 	<version>1.0</version>
 	<name>employee_service_oct25</name>
 	<description>Micro Service first program creating a employee service file</description>
